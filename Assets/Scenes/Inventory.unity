@@ -1424,6 +1424,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -1533,6 +1537,10 @@ PrefabInstance:
       propertyPath: budget
       value: 
       objectReference: {fileID: 1463691160}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
@@ -1942,6 +1950,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -2124,7 +2136,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: $12
+  m_text: $24
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -2693,6 +2705,10 @@ PrefabInstance:
       propertyPath: budget
       value: 
       objectReference: {fileID: 1463691160}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
@@ -3436,6 +3452,10 @@ PrefabInstance:
       propertyPath: budget
       value: 
       objectReference: {fileID: 1463691160}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
@@ -5604,6 +5624,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -5992,6 +6016,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -6317,6 +6345,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -6426,6 +6458,10 @@ PrefabInstance:
       propertyPath: budget
       value: 
       objectReference: {fileID: 1463691160}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
@@ -9391,6 +9427,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -10041,7 +10081,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: $30
+  m_text: $15
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -10972,6 +11012,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -11091,6 +11135,10 @@ PrefabInstance:
       propertyPath: budget
       value: 
       objectReference: {fileID: 1463691160}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
@@ -12287,6 +12335,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -13355,6 +13407,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1463691160}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
       objectReference: {fileID: 1463691160}
@@ -13603,6 +13659,10 @@ PrefabInstance:
       propertyPath: budget
       value: 
       objectReference: {fileID: 1463691160}
+    - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
+      propertyPath: chestItem
+      value: 
+      objectReference: {fileID: 1333802463}
     - target: {fileID: 2762459230853253710, guid: 75835344bc67d384a9b5c55c690e6003, type: 3}
       propertyPath: moneyManager
       value: 
@@ -13953,7 +14013,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: $16
+  m_text: $21
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
